@@ -1,0 +1,6 @@
+Creating a virtual environment in python:
+1. pip install virtualenv
+2. py -m venv myvirtualenv
+3. .\bin\Scripts\activate(Set-ExecutionPolicy RemoteSigned : use this command in power shell to activate policy)
+4. pip instal Flask-RESTful(install  libraries)
+5. pip freeze (check libraries)
